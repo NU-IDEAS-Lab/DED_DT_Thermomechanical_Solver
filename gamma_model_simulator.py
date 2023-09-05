@@ -34,3 +34,4 @@ class GammaModelSimulator:
             self.sim_itr.run()
         else:
             raise ValueError("Simulation is not setup yet. Call setup_simulation() first.")
+
