@@ -96,8 +96,6 @@ class FeaModel():
                 self.save_vtk(filename)
             self.VtkFileNum = self.VtkFileNum + 1
     
-  git config --global user.email "vispikarkaria127@gmail.com"
-  git config --global user.name "Vispikarkaria"
     def run(self):
         ''' Run the simulation. '''
 
